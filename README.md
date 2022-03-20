@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, and a SPWN
 - 🌱 I’m currently learning SPWN
 - 💞️ I’m looking to collaborate on nothing, maybe later.
-- 📫 How to reach me: via discord.
+- 📫 How to reach me: via discord: Nice One#1736
 
 <!---
 Nicest-One/Nicest-One is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
