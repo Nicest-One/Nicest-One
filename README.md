@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicest-One, also know as Nice One, or Nice for short. All though this might cause some confusion :D
-- 👀 I’m interested in Python, and a SPWN
+- 👀 I’m interested in Python, Rust, and SPWN
 - 🌱 I’m currently learning SPWN
 - 💞️ I’m looking to collaborate on nothing, maybe later.
 - 📫 How to reach me: via discord: Nice One#1736
